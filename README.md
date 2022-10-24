@@ -29,3 +29,5 @@ Languages that I use are, but not limited to: Python, JavaScript (+ React.js), a
 <hr>
 
 <br>
+
+[![@agusardi's Holopin board](https://holopin.io/api/user/board?user=agusardi)](https://holopin.io/@agusardi)
