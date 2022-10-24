@@ -5,7 +5,8 @@ I'm a software engineer with interest in learning new technology. Currently lear
 
 Languages that I use are, but not limited to: Python, JavaScript (+ React.js), and Kotlin. I'm always open to learn new programming languages, especially those with new concepts.
 </p>
-<br>
+
+[![Visitor Count](https://shields-io-visitor-counter.herokuapp.com/badge?page=letdummy.letdummy&label=Profile+Visit&labelColor=black&logo=GitHub&logoColor=white&color=0044FF&style=for-the-badge)](https://github.com/letdummy)
 
 ### Github Statistic
 <p align="left">
