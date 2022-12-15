@@ -8,7 +8,7 @@ Languages that I use are, but not limited to: Python, JavaScript (+ React.js), a
 
 [![Visitor Count](https://shields-io-visitor-counter.herokuapp.com/badge?page=letdummy.letdummy&label=Profile+Visit&labelColor=black&logo=GitHub&logoColor=white&color=012645&style=for-the-badge)](https://github.com/letdummy)
 
-Currently working on:
+Currently working on private repo:
 - OOP Final Final Project
 - Framework Based Website Final Project
 - Basic Frontend Final Project [dicoding]
