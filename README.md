@@ -9,13 +9,13 @@ Languages that I use are, but not limited to: Python, JavaScript (+ React.js), a
 [![Visitor Count](https://shields-io-visitor-counter.herokuapp.com/badge?page=letdummy.letdummy&label=Profile+Visit&labelColor=black&logo=GitHub&logoColor=white&color=012645&style=for-the-badge)](https://github.com/letdummy)
 
 Currently working on:
-- Framework Based Website Final Project
 - Linux Remastering - OS Labs Final Project
 - Student Creativity Program: Game
 - Pancasila Final Project: Game
 - Basic Frontend Final Project [dicoding]
 
 Recently finished:
+- [Framework Based Website Final Project](https://github.com/letdummy/Restoran-Keluarga-Solo)
 - [OOP Final Final Project](https://github.com/letdummy/TicketMU) 
 
 ### Github Statistic
