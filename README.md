@@ -10,14 +10,14 @@ Languages that I use are, but not limited to: Python, JavaScript (+ React.js), a
 
 Currently working on:
 
-- Basic Frontend Final Project [dicoding]
+- Belajar Fundamental Front-End Web Development [dicoding]
 
 Recently finished:
+- [Basic Frontend Final Project [dicoding]](https://github.com/letdummy/bookshelf)
 - [Framework Based Website Final Project](https://github.com/letdummy/Restoran-Keluarga-Solo)
 - [OOP Final Final Project](https://github.com/letdummy/TicketMU) 
-- [Pancasila Final Project: Game](https://www.greenfoot.org/scenarios/30724)
-- Linux Remastering - OS Labs Final Project
-- Student Creativity Program: Game
+
+
 
 ### Github Statistic
 <p align="left">
