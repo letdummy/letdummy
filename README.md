@@ -1,7 +1,10 @@
+![](https://github.com/halfrost/halfrost/blob/master/icons/header_1.png)
+
 ### Hi! 👋 I'm Agus.
 
 <p align="left">
-I'm a software engineer with interest in learning new technology. Currently learning in both back-end and front-end services, and also in Cyber Security. <br>
+I'm a software engineer with interest in learning new technology. Currently, I am actively engaged in learning about both back-end and front-end services. 
+Additionally, I am exploring the realm of Android development and delving into Cyber Security. <br>
 
 Languages that I use are, but not limited to: Python, JavaScript (+ React.js), and Kotlin. I'm always open to learn new programming languages, especially those with new concepts.
 </p>
@@ -10,10 +13,14 @@ Languages that I use are, but not limited to: Python, JavaScript (+ React.js), a
 
 Currently working on:
 
-- Belajar Fundamental Front-End Web Development [dicoding]
+- [Belajar Fundamental Aplikasi Android - Submission 1](https://github.com/letdummy/bangkit-android-fundamental-1) [Bangkit]
+- [Belajar Fundamental Aplikasi Android - Submission 2](https://github.com/letdummy/bangkit-android-fundamental-2) [Bangkit]
+- RPS-LMS Integration System [Volunteer]
+
 
 Recently finished:
-- [Basic Frontend Final Project [dicoding]](https://github.com/letdummy/bookshelf)
+- [Belajar Membuat Aplikasi Android untuk Pemula](https://github.com/letdummy/bangkit-android-pemula)
+- [Basic Frontend Final Project](https://github.com/letdummy/bookshelf)
 - [Framework Based Website Final Project](https://github.com/letdummy/Restoran-Keluarga-Solo)
 - [OOP Final Final Project](https://github.com/letdummy/TicketMU) 
 
