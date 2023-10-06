@@ -12,14 +12,14 @@ Languages that I use are, but not limited to: Python, JavaScript (+ React.js), a
 ![](https://komarev.com/ghpvc/?username=your-github-username&label=PROFILE+VIEWS&color=blue)
 
 Currently working on:
-
-- [Belajar Fundamental Aplikasi Android - Submission 1](https://github.com/letdummy/bangkit-android-fundamental-1) [Bangkit]
-- [Belajar Fundamental Aplikasi Android - Submission 2](https://github.com/letdummy/bangkit-android-fundamental-2) [Bangkit]
+- [Belajar Pengembangan Aplikasi Android Intermediate](https://www.dicoding.com/academies/352/)
 - RPS-LMS Integration System [Volunteer]
 
 
 Recently finished:
-- [Belajar Membuat Aplikasi Android untuk Pemula](https://github.com/letdummy/bangkit-android-pemula)
+- [Belajar Fundamental Aplikasi Android - Submission 1](https://github.com/letdummy/bangkit-android-fundamental) [Bangkit]
+- [Belajar Fundamental Aplikasi Android - Submission 2](https://github.com/letdummy/bangkit-android-fundamental/tree/submission_2) [Bangkit]
+- [Belajar Membuat Aplikasi Android untuk Pemula](https://github.com/letdummy/bangkit-android-pemula) [Bangkit]
 - [Basic Frontend Final Project](https://github.com/letdummy/bookshelf)
 - [Framework Based Website Final Project](https://github.com/letdummy/Restoran-Keluarga-Solo)
 - [OOP Final Final Project](https://github.com/letdummy/TicketMU) 
