@@ -19,7 +19,7 @@ Languages that I use are, but not limited to: JavaScript/TypeScript, Kotlin, Pyt
 </p>
 
 <hr>
-<p align="left">
+<p align="center">
   <img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=000&style=for-the-badge"/>
   <img alt="TypeScript" src="https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=fff&style=for-the-badge"/>
   <img alt="React" src="https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=000&style=for-the-badge"/>
