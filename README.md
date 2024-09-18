@@ -1,6 +1,6 @@
-![](https://github.com/halfrost/halfrost/blob/master/icons/header_1.png)
+<img align="center" alt="header picture" src="https://github.com/halfrost/halfrost/blob/master/icons/header_1.png" />
 
-### Hi! 👋 I'm Agus.
+### Hi! I'm Agus 👋.
 
 <p align="left">
 Junior designer translator (Frontend Engineer). Understand how things work, not just as black-box magic. Seeking opportunities to apply software engineering skills to solve real-world problems. In my Software Engineering journey, I have competed in over 5 competitions for fun and built numerous projects. <br>
@@ -11,7 +11,7 @@ Languages that I use are, but not limited to: JavaScript/TypeScript, Kotlin, Pyt
 ![](https://komarev.com/ghpvc/?username=your-github-username&label=PROFILE+VIEWS&color=blue)
 
 ### Github Statistic
-<p align="left">
+<p align="center">
 <a href="https://github.com/letdummy">
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=letdummy&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=letdummy&layout=compact&langs_count=8&theme=tokyonight"/>
