@@ -2,7 +2,7 @@
 
 ### Hi! I'm Agus 👋.
 
-<p align="left">
+<p align="justify">
 Junior designer translator (Frontend Engineer). Understand how things work, not just as black-box magic. Seeking opportunities to apply software engineering skills to solve real-world problems. In my Software Engineering journey, I have competed in over 5 competitions for fun and built numerous projects. <br>
 
 Languages that I use are, but not limited to: JavaScript/TypeScript, Kotlin, Python, PHP, and SQL. I'm always open to learn new programming languages, especially those with new concepts.
