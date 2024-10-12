@@ -1,4 +1,6 @@
-<img align="center" alt="header picture" src="https://github.com/halfrost/halfrost/blob/master/icons/header_1.png" />
+<a href="https://www.instagram.com/p/DA-GEMxTGYq/?igsh=MWF1M3AwZ3o5ZWFoYQ==">
+  <img align="center" alt="header picture by chumbivalley" src="https://raw.githubusercontent.com/letdummy/dump/refs/heads/master/header/header.png" />
+</a>
 
 ### Hi! I'm Agus 👋.
 
